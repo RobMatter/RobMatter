@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creando proyectos propios ...<br>📚 Aprendiendo Python..<br>🎯 Metas:  Seguir aprendiendo, seguir creciendo...<br>🎲 Aficiones  Deporte, Viajar., Cine, Teatro..</p>
+<p align="left">✨ Creando proyectos nuevos ...<br>📚 Aprendiendo Automatizaciones con IA..<br>🎯 Metas:  Seguir aprendiendo, seguir creciendo...<br>🎲 Aficiones  Deporte, Viajar., Cine, Teatro..</p>
 
 ###
 
